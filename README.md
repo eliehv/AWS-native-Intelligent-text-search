@@ -8,8 +8,9 @@
   * Amazon API Gateway
   * AWS Lambda
   * Integration with Slack to apply intelligent search through organization documents
-  
  
+ 
+![AWS-native-intelligent-search-solution](AWS-native-intelligent-search-solution.jpeg)
 
 
 
